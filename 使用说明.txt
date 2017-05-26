@@ -1,0 +1,4 @@
+将kkliuLibrary 复制到python安装目录
+/Python27\Lib\site-packages 下
+
+具体使用参考Demo
